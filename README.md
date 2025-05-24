@@ -43,6 +43,6 @@ It includes:
 
 
 ![Capture 0](https://github.com/user-attachments/assets/24bfb4cf-9cc8-4157-9515-0366f80de244)
-![Capture 1](https://github.com/user-attachments/assets/97b22f0e-c3ce-4208-bee5-7d2a38d284e4)
+![Capture 1](https://github.com/user-attachments/assets/9a907ab5-e31f-496d-aca7-4392ecd379e3)
 ![Capture2](https://github.com/user-attachments/assets/efa6527b-63c5-4a46-bb80-4aa3c1d1b138)
 ![Capture3](https://github.com/user-attachments/assets/514f7a66-840a-4484-8ec0-521d8cb4ee73)
