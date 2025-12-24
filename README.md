@@ -8,7 +8,7 @@ This project highlights the integration of natural language understanding with d
 ---
 
 ## Overview
-
+ 
 With PlotLLM, users can:
 - Analyze numeric data from any Excel file (`.xlsx`)
 - Use natural language prompts to request specific types of visualizations
