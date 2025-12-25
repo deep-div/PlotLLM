@@ -6,9 +6,9 @@ PlotLLM demonstrates how large language models (LLMs) can be used to automatical
 This project highlights the integration of natural language understanding with data analysis and plotting libraries to automate the visualization process.
 
 ---
-
+ 
 ## Overview
-
+ 
 With PlotLLM, users can:
 - Analyze numeric data from any Excel file (`.xlsx`)
 - Use natural language prompts to request specific types of visualizations
